@@ -1,2 +1,3 @@
 # project-gamment
-starting the documentation journey
+<p align="center">starting the documentation journey</p>
+
